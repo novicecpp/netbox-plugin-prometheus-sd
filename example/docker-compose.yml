@@ -60,3 +60,6 @@ volumes:
     driver: local
   netbox-redis-data:
     driver: local
+
+networks:
+  netbox:
